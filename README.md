@@ -1,4 +1,4 @@
-# Data Science Assignment – Web3 Trading Team
+# Data Science  – Web3 Trading Team
 
 ## 📄 Overview
 This project analyzes the relationship between trader behavior and market sentiment (Fear/Greed).  
