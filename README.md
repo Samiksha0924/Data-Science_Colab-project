@@ -1,5 +1,9 @@
 # Data Science  – Web3 Trading Team
 
+## Problem Statement
+Crypto trading platforms generate large volumes of transaction data, but traders often struggle to understand how market sentiment affects trading behavior.  
+This project analyzes the relationship between trader activity and the Bitcoin Fear & Greed Index to identify behavioral patterns during different market sentiment phases.
+
 ## 📄 Overview
 This project analyzes the relationship between trader behavior and market sentiment (Fear/Greed).  
 The goal was to clean and merge trading data with the Bitcoin Fear & Greed Index, perform exploratory data analysis (EDA), generate insights, and summarize findings in a report.
